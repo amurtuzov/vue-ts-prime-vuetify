@@ -1,6 +1,6 @@
-# VUE TS BoilerPlate
+# VUE TS Prime/Vuetify Boilerplate
 
-## Node - >= v16.15.1
+## Node - >= 18
 
 ## Build
 ```
